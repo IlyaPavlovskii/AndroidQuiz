@@ -1,3 +1,4 @@
+include ':quiz_05_05_2020'
 include ':quiz_04_05_2020'
 include ':quiz_03_05_2020'
 rootProject.name = "AndroidQuiz"
