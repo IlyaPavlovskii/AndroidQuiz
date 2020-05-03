@@ -1,0 +1,2 @@
+include ':quiz_03_05_2020'
+rootProject.name = "AndroidQuiz"
