@@ -13,6 +13,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/quiz_03_05_2020" />
+            <option value="$PROJECT_DIR$/quiz_04_05_2020" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
