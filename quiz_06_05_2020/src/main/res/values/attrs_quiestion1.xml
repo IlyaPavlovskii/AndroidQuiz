@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="customEnum" format="enum"/>
+    <attr name="customFlag" format="flags"/>
+    <attr name="customString" format="string"/>
+    <attr name="customDrawable" format="reference"/>
+</resources>
