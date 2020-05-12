@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.AndroidQuiz.Text" parent="">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="Theme.AndroidQuiz.Question1" parent="Theme.AppCompat">
+        <item name="android:textSize">10sp</item>
+    </style>
+</resources>

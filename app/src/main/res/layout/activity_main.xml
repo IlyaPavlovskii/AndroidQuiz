@@ -2,6 +2,6 @@
 <androidx.fragment.app.FragmentContainerView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/fragmentContainer"
-    android:name="by.bulba.android.quiz_11_05_2020.Question4"
+    android:name="by.bulba.android.quiz_13_05_2020.Question1"
     android:layout_width="match_parent"
     android:layout_height="match_parent" />

@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="by.bulba.android.quiz_13_05_2020">
+    <application>
+        <activity android:name=".Question1"/>
+    </application>
+</manifest>
